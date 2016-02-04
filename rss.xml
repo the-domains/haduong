@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[haduong]]></title>
-        <description><![CDATA[haduong]]></description>
+        <title><![CDATA[Ha Duong - Personal Blog]]></title>
+        <description><![CDATA[Ha Duong - Personal Blog]]></description>
         <link>https://thegrid.ai/haduong/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 23:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 23:32:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/haduong/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bec4b058-edb5-4647-b5e8-615a2202676f.jpg">]]></description>
+            <link>https://thegrid.ai/haduong/735d5572-153b-4c01-92dd-0b1d4c60a5d8/index.html</link>
+            <guid isPermaLink="false">735d5572-153b-4c01-92dd-0b1d4c60a5d8</guid>
+            <pubDate>Thu, 04 Feb 2016 23:31:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/93d0ece3-5ce2-40a2-a4df-0fbd6d76aacb.JPG">]]></description>
