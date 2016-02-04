@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[haduong]]></title>
         <description><![CDATA[haduong]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/haduong/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 23:13:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 23:13:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/haduong/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Master of Science student majoring in Industrial Engineering and Management with a focus on Innovation Management and Entrepreneurship. </p>]]></description>
+            <link>https://thegrid.ai/haduong/80845a89-34aa-437b-a580-5d1c5229e2d4/index.html</link>
+            <guid isPermaLink="false">80845a89-34aa-437b-a580-5d1c5229e2d4</guid>
+            <pubDate>Thu, 04 Feb 2016 23:12:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c068a0b4-60d1-4cdc-bfb0-cc0307f6671a.JPG">]]></description>
-            <link>undefined31a9f1a4-f1d4-4dc9-8b68-9ef411170b1b/index.html</link>
+            <link>https://thegrid.ai/haduong/31a9f1a4-f1d4-4dc9-8b68-9ef411170b1b/index.html</link>
             <guid isPermaLink="false">31a9f1a4-f1d4-4dc9-8b68-9ef411170b1b</guid>
             <pubDate>Thu, 04 Feb 2016 23:12:07 GMT</pubDate>
         </item>
