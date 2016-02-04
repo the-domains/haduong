@@ -1,7 +1,7 @@
 name: haduong
 favicon: null
 layout_spectrum: 0.2888972358778119
-typography_spectrum: 0.014762082369998097
+typography_spectrum: 0.22979
 title: Ha Duong - Personal Blog
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.7032307456247509
-  lightness: 0.8801848276052624
-  saturation: 0.592358973575756
-  rhythmicContrast: 0.18736408138647676
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
